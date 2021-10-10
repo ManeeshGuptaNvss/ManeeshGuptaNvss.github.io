@@ -197,6 +197,11 @@ img {
   border: 2px solid #DA4167;
   /* margin:1em; */
 }
+.combined{
+  color: #fff;
+  background-color: #DA4167;
+  padding: 1em;
+}
 .image_box {
   /* text-align: center; */
   display: flex;
