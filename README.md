@@ -5,7 +5,6 @@
 
 > Description
 
-- Used google fonts in CSS
 - Added boxicons, fontawesome icons CDN in the html file
 - Mobile friendly design using grid,flexbox CSS.
 - Added images viz., profile photo, pg college campus image, ug college campus image.
